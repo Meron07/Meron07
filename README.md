@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meron07&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meron07&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meron07&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" alt="Top Languages" height="170" />
 </div>
 
