@@ -6,8 +6,12 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Meron07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=3600" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Meron07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=💡+AI+%26+Machine+Learning;🧩+Simulation+%26+Automation;⚙️+Full-Stack+Development;🚀+Continuous+Innovation" alt="Typing SVG" />
