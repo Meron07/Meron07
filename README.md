@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Meron07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Meron07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=3600" alt="GitHub Streak" />
 </div>
 
 <p align="center">
