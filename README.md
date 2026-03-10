@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=💡+AI+%26+Machine+Learning;🧩+Simulation+%26+Automation;⚙️+Full-Stack+Development;🚀+Continuous+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=💡+AI-driven+%26+cybersecurity;🧩+Simulation+%26+Automation;⚙️+Full-Stack+Development;🚀+Continuous+Innovation" alt="Typing SVG" />
 </p>
 
 <hr/>
