@@ -1,4 +1,5 @@
 ## Hi there 
+Software engineer focused on cybersecurity, networking, and systems. I like working with Linux environments, experimenting with security tools, and building projects that combine software and infrastructure.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meron07&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" height="170" />
