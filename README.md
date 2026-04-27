@@ -16,16 +16,6 @@ Software engineer focused on cybersecurity, networking, and systems. I like work
 
 <p align="center"><strong>🛠️ Tools I've Used</strong></p>
 
-<!-- Main tools -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tensorflow,pytorch,git,vscode,linux&perline=6" />
-</p>
-
-<!-- Extra tools -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-plain.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" width="48" height="48" />
 </p>
