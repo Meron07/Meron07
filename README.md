@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Meron Berhe Kidane 👋
+# Hi, I'm Meron 
 
 ### Cybersecurity | Cloud Security | Software Engineering | DevSecOps
 
