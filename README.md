@@ -19,10 +19,6 @@ network security, and automation.
 
 ## 👨‍💻 About Me
 
-I'm a software developer with a Master's degree in Cybersecurity and a Bachelor's degree in Applied Computer Science from OsloMet.
-
-My background combines software engineering, cybersecurity, cloud infrastructure, and DevOps.
-
 - 🔐 Interested in cybersecurity, cloud security and ethical hacking
 - ☁️ Experience with Azure, Linux, Docker and CI/CD
 - 💻 Fullstack development with React, .NET, Java and Python
