@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Meron Berhe Kidane 👋
+# Hi, I'm Meron 
 
 ### Cybersecurity | Cloud Security | Software Engineering | DevSecOps
 
@@ -60,54 +60,6 @@ My background combines software engineering, cybersecurity, cloud infrastructure
 - **ICS/OT Security:** IEC 60870-5-104, IEC 61850 GOOSE
 - **Monitoring:** Grafana, Prometheus
 - **Identity & Access:** Microsoft Entra ID, Microsoft 365
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 ICS/OT Replay Attack Detection
-**Master's Thesis | Grade A**
-
-Simulation and Detection of Replay Attacks in IEC-104 and IEC-61850 GOOSE Communication Using SGSim.
-
-- Built an isolated virtual lab using Kali Linux and Ubuntu
-- Simulated replay attacks against industrial communication protocols
-- Developed Python-based detection methods
-- Evaluated detection performance under different network conditions
-
-**Technologies:** Python, Linux, Wireshark, Scapy, tcpdump, tshark
-
-### 🤖 EvoPhisher: Adversarial AI Simulation
-
-An AI-based phishing simulation project exploring how LLM agents, evolutionary algorithms and reinforcement learning can model phishing behavior.
-
-**Technologies:** Python, LangChain, LangGraph, FastAPI, Docker
-
-### ☁️ DevOps & Cloud Infrastructure
-
-Built and deployed containerized services in a virtual cloud environment.
-
-- Docker-based application deployment
-- GitLab CI/CD pipelines
-- Linux and OpenStack infrastructure
-- Grafana and Prometheus monitoring
-
-### 💻 Microsoft Teams Application
-
-Fullstack development of a Microsoft Teams-integrated application.
-
-**Technologies:** React, C#/.NET, Microsoft Graph API, Azure
-
----
-
-## 🎓 Education
-
-**Master of Science in Cybersecurity**  
-Oslo Metropolitan University | 2026  
-Master's Thesis: Grade A
-
-**Bachelor in Applied Computer Science**  
-Oslo Metropolitan University
 
 ---
 
