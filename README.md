@@ -59,16 +59,6 @@ network security, and automation.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Meron07&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in opportunities involving:
