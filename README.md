@@ -3,7 +3,7 @@
 
 # Hi, I'm Meron 
 
-### Cybersecurity | Cloud Security | Software Engineering | DevSecOps
+### Cybersecurity | Cloud Security | Software Engineering | DevSecOps 📍 Norway
 
 MSc in Cybersecurity | BSc in Applied Computer Science  
 Oslo Metropolitan University (OsloMet), Norway
@@ -65,5 +65,10 @@ I'm interested in opportunities involving:
 
 **Cybersecurity | Cloud Engineering | DevSecOps | Software Development**
 
-📍 Norway
+### 📫 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/meron-berhe-kidane-245805201/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35"/>
+  </a>
+</p>
